@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tordanim.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down0000" x="0" y="0" width="329" height="593"/>
+	<SubTexture name="Down0001" x="329" y="0" width="329" height="593"/>
+	<SubTexture name="Ha0000" x="658" y="0" width="330" height="634"/>
+	<SubTexture name="Ha0001" x="988" y="0" width="330" height="634"/>
+	<SubTexture name="Idle0000" x="1318" y="0" width="338" height="609"/>
+	<SubTexture name="Idle0001" x="1656" y="0" width="338" height="609"/>
+	<SubTexture name="Idle0002" x="0" y="634" width="338" height="609"/>
+	<SubTexture name="Idle0003" x="0" y="634" width="338" height="609"/>
+	<SubTexture name="Idle0004" x="338" y="634" width="338" height="609"/>
+	<SubTexture name="Idle0005" x="338" y="634" width="338" height="609"/>
+	<SubTexture name="Idle0006" x="676" y="634" width="338" height="609"/>
+	<SubTexture name="Idle0007" x="676" y="634" width="338" height="609"/>
+	<SubTexture name="Idle0008" x="676" y="634" width="338" height="609"/>
+	<SubTexture name="Idle0009" x="676" y="634" width="338" height="609"/>
+	<SubTexture name="Idle0010" x="676" y="634" width="338" height="609"/>
+	<SubTexture name="Idle0011" x="676" y="634" width="338" height="609"/>
+	<SubTexture name="Idle0012" x="676" y="634" width="338" height="609"/>
+	<SubTexture name="Idle0013" x="676" y="634" width="338" height="609"/>
+	<SubTexture name="Idle0014" x="1014" y="634" width="338" height="609"/>
+	<SubTexture name="Left0000" x="1352" y="634" width="317" height="609"/>
+	<SubTexture name="Left0001" x="1669" y="634" width="317" height="609"/>
+	<SubTexture name="Right0000" x="0" y="1243" width="357" height="605"/>
+	<SubTexture name="Right0001" x="357" y="1243" width="357" height="605"/>
+	<SubTexture name="Up0000" x="714" y="1243" width="330" height="634"/>
+	<SubTexture name="Up0001" x="1044" y="1243" width="330" height="634"/>
+</TextureAtlas>
