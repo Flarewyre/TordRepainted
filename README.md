@@ -1,3 +1,6 @@
+# Tord Repainted
+Source code and stuff, since it's required by FNF law to release source code for .exe mods
+
 # FunkinForever
 An open-source [Friday Night Funkin'](https://www.newgrounds.com/portal/view/770371) mod engine
 ----------------------------------------------
